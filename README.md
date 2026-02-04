@@ -12,7 +12,7 @@ and programming fundamentals. I value clarity, correctness, and long-term impact
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=verilog)
 ![Delphi](https://img.shields.io/badge/Delphi-000000?style=flat)
 
 ## Focus Areas
