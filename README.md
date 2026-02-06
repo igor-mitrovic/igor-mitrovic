@@ -24,7 +24,7 @@ and programming fundamentals. I value clarity, correctness, and long-term impact
 - Strong foundation in troubleshooting and system reliability
 
 ## Philosophy
-- Systems over hacks
+- Systems over isolation
 - Simplicity over complexity
 - Long-term thinking over short-term gains
 
